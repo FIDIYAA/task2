@@ -1,0 +1,39 @@
+.container {
+    display: inline-block;
+    text-align:center;
+    background-color: rgb(216, 213, 177);
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+h1 {
+    background-color: rgba(27, 23, 18, 0.956);
+    color: antiquewhite;
+}
+body{
+    text-align: center;
+}
+button{
+    background-color: rgb(212, 211, 200);
+    border-radius: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1em;
+    color: rgb(160, 112, 52);
+    border-color: #39353511;
+    border-width: 5px;
+    padding:10px 20px;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: #683c3c11;
+
+}
+label{
+    color: black;
+}
+#result{
+    color:rgb(170, 104, 23) ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
